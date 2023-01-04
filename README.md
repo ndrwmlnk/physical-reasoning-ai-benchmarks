@@ -16,7 +16,7 @@ Augustin Harter, Andrew Melnik, Gaurav Kumar, Dhruv Agarwal, Animesh Garg, Helge
 
 
 ---
-## CLEVERER solutions  
+## CLEVRER solutions  
 
 ---
 
