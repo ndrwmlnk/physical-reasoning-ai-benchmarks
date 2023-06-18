@@ -1,21 +1,21 @@
 # *Awesome* Physical Reasoning AI: Benchmarks  
 
 ---
-## Physical Reasoning Benchmarks  
+## Physical Reasoning  
 
 📄 **PHYRE: A New Benchmark for Physical Reasoning**  
 Anton Bakhtin, Laurens van der Maaten, Justin Johnson, Laura Gustafson, Ross Girshick  
 [[Paper]](https://arxiv.org/abs/1908.05656)  [[Website]](https://phyre.ai)  [[GitHub]](https://github.com/facebookresearch/phyre)  
 
 ---
-## Robotic Benchmarks
+## Robotics  
 
 📄 **DEDO - Dynamic Environments with Deformable Objects**  
 Rika Antonova and Peiyang Shi and Hang Yin and Zehang Weng and Danica Kragic  
 [[Paper]](https://openreview.net/forum?id=WcY35wjmCBA)  [[Video]](https://www.youtube.com/watch?v=5eA8z80c9Zc)  [[GitHub]](https://github.com/contactrika/dedo)  
 
 ---
-## Robotic and Language
+## Robotics and Language  
 
 📄 **Room-Across-Room (RxR) Dataset**  
 📄 **Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments**  
