@@ -1,4 +1,4 @@
-# *Awesome* Physical Reasoning AI  
+# *Awesome* Physical Reasoning AI: Benchmarks  
 
 ---
 ## Benchmarks
